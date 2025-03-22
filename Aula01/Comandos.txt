@@ -1,0 +1,12 @@
+CMD | Terminal -> Ctrl+Shift+'
+
+Para compilar o código, no terminal digite:
+dotnet build
+
+Para executar (após a compilação ter sido realizada com sucesso), no terminal, digite:
+dotnet run
+
+Podemos utilizar o seguinte comando para que, caso alguma alteração no código
+ocorre, o framework automaticamente faça a compilação e a execução:
+dotnet watch
+
