@@ -30,3 +30,4 @@ C:\Internet2\Aula01\Projeto\apiExemplo\obj\Debug\net8.0\refint\apiExemplo.dll
 C:\Internet2\Aula01\Projeto\apiExemplo\obj\Debug\net8.0\apiExemplo.pdb
 C:\Internet2\Aula01\Projeto\apiExemplo\obj\Debug\net8.0\apiExemplo.genruntimeconfig.cache
 C:\Internet2\Aula01\Projeto\apiExemplo\obj\Debug\net8.0\ref\apiExemplo.dll
+C:\Internet2\Aula01\Projeto\apiExemplo\obj\Debug\net8.0\apiExemplo.sourcelink.json

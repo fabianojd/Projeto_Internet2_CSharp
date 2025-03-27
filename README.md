@@ -28,6 +28,22 @@ Antes de iniciar, instale os seguintes softwares:
 ### 2. Criar a API
 ```sh
 dotnet new webapi --use-controllers -o apiExemplo -f net8.0
+
+Abrir o VSCode com o projeto criado:
+ code -r apiExemplo
+ 
+Compilar o código no terminal:
+ dotnet build 
+ 
+Para executar (após a compilação ter sido realizada com sucesso) no terminal:
+ dotnet run
+ 
+Framework que faz automaticamente a compilação e a execução:
+ dotnet watch
+ 
+Inicia Swagger
+http://localhost:5236/swagger/index.html 
+
 ```
 
 ### 3. Instalar Pacotes Necessários
