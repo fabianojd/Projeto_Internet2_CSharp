@@ -54,7 +54,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools
 ```
 
 ### 4. Configurar o Banco de Dados
-Execute no Docker, toda aula no Laboratório
+Execute no Docker, toda aula no Laboratório:
 
 ```sh
 docker pull mcr.microsoft.com/mssql/server:2022-latest
@@ -69,7 +69,6 @@ dotnet tool install --global dotnet-ef
 
 dotnet tool update --global dotnet-ef
 ```
-
 
 
 Crie um arquivo `appsettings.json` e adicione a string de conexão:
