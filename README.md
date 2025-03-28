@@ -71,8 +71,6 @@ dotnet tool update --global dotnet-ef
 ```sh
 
 
-```
-
 Crie um arquivo `appsettings.json` e adicione a string de conexão:
 ```json
 "ConnectionStrings": {
